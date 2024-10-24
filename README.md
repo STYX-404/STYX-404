@@ -38,4 +38,4 @@ Experienced Backend Software Engineer with 2 years of successful API and databas
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=styx-404&theme=nord&hide_border=true&exclude_days=Fri%2CSat&card_width=1100)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=styx-404&theme=material-palenight&hide_border=true&mode=weekly&card_width=1100&card_height=300)](https://git.io/streak-stats)
