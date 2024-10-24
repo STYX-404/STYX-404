@@ -38,5 +38,4 @@ Experienced Backend Software Engineer with 2 years of successful API and databas
 
 ---
 
-### 📈 GitHub Stats:
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=styx-404&show_icons=true&count_private=true&theme=radical&v=1)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=styx-404&theme=nord&hide_border=true&exclude_days=Fri%2CSat&card_width=1100)](https://git.io/streak-stats)
